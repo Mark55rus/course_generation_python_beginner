@@ -1,0 +1,1 @@
+# course_generation_python_beginner
